@@ -1,0 +1,39 @@
+.pokemon{
+    background-image: linear-gradient(to top, #121223, #1c1e33, #272a44, #313756, #3c4568);
+}
+.pokemon h1 {
+    color:darkred;
+    padding-left: 430px;
+    
+}
+
+.card{
+    width: 1000px;
+    height: 620px;
+    background-image: url('../../Assets/card2.png');
+    border-radius: 20px;
+    margin: 300px;
+}
+
+.image {
+    
+    width:200px;
+    height:200px;
+}
+
+.table {
+    padding-top: 100px;
+    font-size: 300px;
+}
+.button {
+    width: 150px;
+    height: 50px;
+    margin-left: 900px;
+    margin-top: 60px;
+    
+}
+.button h2 {
+    color:darkred;
+}
+
+

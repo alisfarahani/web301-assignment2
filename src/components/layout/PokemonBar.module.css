@@ -1,0 +1,21 @@
+.app {
+	width: 100%;
+	
+}
+.pokemonBar {
+	z-index: 40;
+	left: 0;
+	padding-bottom: 30px;
+	position: sticky;
+	right: 0;
+	top: 0;
+	width: 100%;
+	background-image: linear-gradient(to right, #241ac3, #bd009b, #f80068, #ff4e37, #ff9900, #ffa400, #ffb000, #ffbb00, #ff9323, #ff6a40, #fc4159, #e21a71);
+	
+}
+.image {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}

@@ -1,0 +1,11 @@
+.main {
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 130px;
+    padding-bottom: 20px;
+    margin-top: 50px ;
+    background-image: radial-gradient(circle, #11bfb7, #00a7ae, #008ea1, #007690, #005f7c, #0b5372, #124867, #173d5c, #19395a, #1b3557, #1d3054, #202c51);
+    border-radius: 10px;
+    box-shadow: 0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px rgba(0, 0, 0, 0.22);
+}

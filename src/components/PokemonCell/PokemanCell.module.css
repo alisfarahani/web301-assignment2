@@ -1,0 +1,35 @@
+.pokemanCell {
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    background-image: linear-gradient(to top, #bcf6f0, #befae8, #c5fdde, #d1fed3, #e1ffc7, #ecf8bc, #f6f1b4, #ffe9af, #ffdaaf, #ffccb8, #ffc1c7, #ffbbd8);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    box-shadow: white;
+}
+
+.card{
+    width: 320px;
+    height: 320px;
+    background-image: linear-gradient(to top, #bcf6f0, #befae8, #c5fdde, #d1fed3, #e1ffc7, #ecf8bc, #f6f1b4, #ffe9af, #ffdaaf, #ffccb8, #ffc1c7, #ffbbd8);
+    border-radius: 20px;
+    margin: 10px;
+}
+.card h1 {
+    margin-left: 70px; 
+    color: darkslategrey;
+    
+}
+.card img {
+    padding-bottom: 20px;
+    padding-left: 95px;
+    padding-top: 80px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+
+}
+
+
+
